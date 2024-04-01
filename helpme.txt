@@ -1,0 +1,8 @@
+##### - Main File
+
+Located in lib/
+
+##### - Running program
+
+"open -a simulator" - Opens iOS simulator
+"flutter run" - Runs application in desired OS
